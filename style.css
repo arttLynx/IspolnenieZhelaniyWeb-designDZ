@@ -1,0 +1,25 @@
+body {
+    background-color: #1E1E1E;
+}
+h1, h2, h3, h4, h5, h6, p {
+    color: #BBBBBB;
+}
+.input {
+    background-color: #1E1E1E;
+    color: #BBBBBB;
+    border: 5px;
+    border-radius: 5px;
+}
+.btn {
+    background-color: #000000;
+    color: #BBBBBB;
+    border: 5px;
+    border-radius: 10px;
+}
+.btn:hover {
+    background-color: rgb(121, 121, 121);
+}
+.btn:active {
+    background-color: #00ff73;
+    color: #000;
+}
